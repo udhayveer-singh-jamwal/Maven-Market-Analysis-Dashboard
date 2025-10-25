@@ -1,4 +1,4 @@
-# Maven Market Analysis Dashboard lkfv
+# Maven Market Analysis Dashboard
 
 ## Project Overview
 This is a **multi-page Power BI dashboard** built to analyze Maven Market data. The dashboard provides insights on:
