@@ -1,4 +1,4 @@
-store_id,region_id,store_type,store_name,store_street_address,store_city,store_state,store_country,store_phone,first_opened_date,last_remodel_date,total_sqft,grocery_sqft
+hg store_id,region_id,store_type,store_name,store_street_address,store_city,store_state,store_country,store_phone,first_opened_date,last_remodel_date,total_sqft,grocery_sqft
 1,28,Supermarket,Store 1,2853 Bailey Rd,Acapulco,Guerrero,Mexico,262-555-5124,1/9/1982,12/5/1990,23593,17475
 2,78,Small Grocery,Store 2,5203 Catanzaro Way,Bellingham,WA,USA,605-555-8203,4/2/1970,6/4/1973,28206,22271
 3,76,Supermarket,Store 3,1501 Ramsey Circle,Bremerton,WA,USA,509-555-1596,6/14/1959,11/19/1967,39696,24390
@@ -23,3 +23,4 @@ store_id,region_id,store_type,store_name,store_street_address,store_city,store_s
 22,88,Small Grocery,Store 22,9606 Julpum Loop,Walla Walla,WA,USA,881-555-5117,1/24/1951,10/17/1969,35918,24837
 23,89,Mid-Size Grocery,Store 23,3920 Noah Court,Yakima,WA,USA,170-555-8424,7/16/1977,7/24/1987,29182,19283
 24,7,Supermarket,Store 24,2342 Waltham St.,San Diego,CA,USA,111-555-0303,5/22/1979,4/20/1986,27372,18293
+
