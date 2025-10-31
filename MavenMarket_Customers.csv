@@ -1,4 +1,4 @@
-customer_id,customer_acct_num,first_name,last_name,customer_address,customer_city,customer_state_province,customer_postal_code,customer_country,birthdate,marital_status,yearly_income,gender,total_children,num_children_at_home,education,acct_open_date,member_card,occupation,homeowner
+jk customer_id,customer_acct_num,first_name,last_name,customer_address,customer_city,customer_state_province,customer_postal_code,customer_country,birthdate,marital_status,yearly_income,gender,total_children,num_children_at_home,education,acct_open_date,member_card,occupation,homeowner
 1,87462024688,Sheri,Nowmer,2433 Bailey Road,Tlaxiaco,Oaxaca,15057,Mexico,8/26/1961,M,$30K - $50K,F,4,2,Partial High School,9/10/1991,Bronze,Skilled Manual,Y
 2,87470586299,Derrick,Whelply,2219 Dewing Avenue,Sooke,BC,17172,Canada,7/3/1915,S,$70K - $90K,M,1,0,Partial High School,3/11/1993,Bronze,Professional,N
 3,87475757600,Jeanne,Derry,7640 First Ave.,Issaquah,WA,73980,USA,6/21/1910,M,$50K - $70K,F,1,1,Bachelors Degree,6/11/1991,Bronze,Professional,Y
@@ -10280,3 +10280,4 @@ customer_id,customer_acct_num,first_name,last_name,customer_address,customer_cit
 10279,87453135848,Mary,Ayers,6885 Auburn,Lincoln Acres,CA,42550,USA,5/18/1913,S,$130K - $150K,M,3,0,Partial High School,11/22/1991,Bronze,Management,Y
 10280,87458639740,Ernest,Aiello,5077 Bannock Ct.,Puyallup,WA,27746,USA,9/6/1968,M,$150K +,F,5,2,High School Degree,5/26/1991,Golden,Professional,Y
 10281,87460163235,Samuel,Cartney,4609 Parkway Drive,Vancouver,BC,63699,Canada,7/6/1914,S,$50K - $70K,F,5,0,Bachelors Degree,7/22/1993,Bronze,Management,N
+
