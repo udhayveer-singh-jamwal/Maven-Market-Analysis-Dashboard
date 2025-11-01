@@ -1,4 +1,4 @@
-hg return_date,product_id,store_id,quantity
+return_date,product_id,store_id,quantity
 1/1/1997,250,6,1
 1/1/1997,628,6,1
 1/1/1997,869,6,1
@@ -7086,4 +7086,5 @@ hg return_date,product_id,store_id,quantity
 12/30/1998,1065,10,1
 12/30/1998,1154,11,1
 12/30/1998,1291,11,1
+
 
